@@ -1,0 +1,8 @@
+git branch
+  Te dice las ramas y en cual te encuentras con un *
+git checkout [nombre_rama]
+  me mueve a la rama que quiera
+git branch [nombre de la rama]
+  rama con un nombre
+git branch -a 
+  hace tanto locales como remotas
